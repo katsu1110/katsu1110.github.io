@@ -131,6 +131,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - assets/css # new
   - Capfile
   - CHANGELOG
   - config
