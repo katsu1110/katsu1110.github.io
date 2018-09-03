@@ -131,9 +131,9 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - assets/css/collapse.css
-  # - assets/css/academicons.css # new
-  # - assets/css/academicons.min.css # new
+  # - assets/css/collapse.css
+  - assets/css/academicons.css # new
+  - assets/css/academicons.min.css # new
   - Capfile
   - CHANGELOG
   - config
