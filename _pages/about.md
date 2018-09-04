@@ -15,7 +15,7 @@ I spend my spare time on Japanese subcultures or table tennis :)
 
 ## Online activities ##
 - Code on [Github](https://github.com/katsu1110)
-- Code-related online posts on [Qiita](https://qiita.com/katsu1110) (only in Japanese)
-- Non-code-related online posts on [note](https://note.mu/code1110) (only in Japanese)
+- Coding-related online posts on [Qiita](https://qiita.com/katsu1110) (only in Japanese)
+- Non-coding-related online posts on [note](https://note.mu/code1110) (only in Japanese)
 - Junks on [Twitter](https://twitter.com/kk1110tt) (mostly in Japanese)
-- [Brief info to Tübingen](http://code1110.pythonanywhere.com/top_page/) (only in Japanese)
+- [Brief info about Tübingen](http://code1110.pythonanywhere.com/top_page/) (only in Japanese)
