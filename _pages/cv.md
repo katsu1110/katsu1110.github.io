@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology, Department of Advanced Science and Engineering, Waseda University, Japan, 2013
-* M.S. in Neural & Behavioral Sciences, International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2015
 * Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019 (expected)
+* M.S. in Neural & Behavioral Sciences, International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2015
+* B.S. in Biology, Department of Advanced Science and Engineering, Waseda University, Japan, 2013
 
 Award/Scholarships
 ======
