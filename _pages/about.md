@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Thanks for visiting! ##
-I am Katsuhisa Kawaguchi, a PhD student in system neuroscience, Tübingen, Germany. I have been interested in the information processing of the brain to translate sensory information into a meaningful behavior.
+I am Katsuhisa Kawaguchi, currently working in a Japanese IT company. I did my PhD in the field of system neuroscience in Tübingen, Germany. I have been interested in the information processing of the brain that translates sensory information into a meaningful behavior.
 
 I spend my spare time on Japanese subcultures or table tennis :)
 
