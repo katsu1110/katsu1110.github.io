@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* April 2019~: Data scientist @Yahoo! JAPAN (Tokyo, Japan)
+* April 2019~: Data scientist @[Yahoo! JAPAN](https://about.yahoo.co.jp/info/en/company/) (Tokyo, Japan)
   * Duties included: data analysis, software engineering
 
 Education
