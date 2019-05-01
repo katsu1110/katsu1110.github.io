@@ -17,7 +17,7 @@ I honestly believe that working in a big web company is a great experience. At t
 - My bachelor is biology (in Japan), master and doctor in neuroscience (in Germany)
 - I have more than 3000 contributions and 350 followers in Qiita, a SNS for programmers in Japan
 
-If you are interested in working with such a person, contact me on (Twitter)[https://twitter.com/kk1110tt] or anything. Please note that I may not reply.
+If you are interested in working with such a person, contact me on [Twitter](https://twitter.com/kk1110tt) or anything. Please note that I may not reply.
 
 副業募集中
 ======
@@ -28,7 +28,7 @@ If you are interested in working with such a person, contact me on (Twitter)[htt
 - Qiitaで3000以上のコントリビューション、350人以上のフォロワーがいます
 - 英語（英検１級）話せます
 
-上記のような人間と働くことに興味があれば、(Twitter)[https://twitter.com/kk1110tt]などでご連絡ください。内容次第では返信をしない可能性がありますが、ご了承ください。
+上記のような人間と働くことに興味があれば、[Twitter](https://twitter.com/kk1110tt)などでご連絡ください。内容次第では返信をしない可能性がありますが、ご了承ください。
 
 
 <!-- Teaching
