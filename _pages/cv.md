@@ -9,10 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2019: Data scientist
+  * Yahoo! Japan
+  * Duties included: data analysis, software engineering
 
 Education
 ======
-* Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019 (expected)
+* Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019 
 * M.S. in Neural & Behavioral Sciences, International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2015
 * B.S. in Biology, Department of Advanced Science and Engineering, Waseda University, Japan, 2013
 
@@ -22,18 +27,12 @@ Award/Scholarships
 * Ono Azusa Anniversary Scholarship, Waseda University, 2011-2013
 * 125th Anniversary Foundation Scholarship, Waseda University, 2010-2011
 
-Work experience
-======
-* 2015: Research Assistant
-  * Centre for Integrative Neuroscience, Tübingen, Germany
-  * Duties included: data analysis
-  * Supervisor: Dr. Hendrikje Nienborg
-
 Skills
 ======
 * Programming
   * Matlab
   * Python
+  * Java
   * HTML/CSS/JS
 * Language
   * Japanese
