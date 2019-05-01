@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 Work experience
 ======
 * April 2019~: Data scientist @[Yahoo! JAPAN](https://about.yahoo.co.jp/info/en/company/) (Tokyo, Japan)
@@ -17,7 +16,7 @@ Work experience
 
 Education
 ======
-* Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019 
+* Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019
 * M.S. in Neural & Behavioral Sciences, International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2015
 * B.S. in Biology, Department of Advanced Science and Engineering, Waseda University, Japan, 2013
 
