@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+\
+
 Work experience
 ======
 * April 2019~: Data scientist @[Yahoo! JAPAN](https://about.yahoo.co.jp/info/en/company/) (Tokyo, Japan)
