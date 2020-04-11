@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-It is very nice of you to be interested in working with me:)　ご興味持っていただきありがとうございます:)
+It is very nice of you to be interested in working with me:)　
 ======
 
 (English)
-Contact me on [Twitter](https://twitter.com/kk1110tt) or [email](code1110g-show@hotmail.co.jp) either in Japanese or English. The following list show the rough price range.
+Contact me on [Twitter](https://twitter.com/kk1110tt) or email(code1110g-show<at>hotmail.co.jp) either in Japanese or English. The following list show the rough price range.
 
 |  job type | price  | comments  | 
 |-----------|--------|-----------|
@@ -23,7 +23,8 @@ Contact me on [Twitter](https://twitter.com/kk1110tt) or [email](code1110g-show@
 
 
 （日本語）
-ご連絡は[Twitter](https://twitter.com/kk1110tt)か[email](code1110g-show@hotmail.co.jp)にてお願いします. お受けできる内容と価格帯は以下です。
+ご興味持っていただきありがとうございます:)
+ご連絡は[Twitter](https://twitter.com/kk1110tt)かemail(code1110g-show<at>hotmail.co.jp)にてお願いします. お受けできる内容と価格帯は以下です。
 
 |  仕事内容 | 価格  | コメント  | 
 |-----------|--------|-----------|
