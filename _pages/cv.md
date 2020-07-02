@@ -11,9 +11,20 @@ redirect_from:
 
 Work experience
 ======
-* April 2019~: Data scientist @[Yahoo! JAPAN](https://about.yahoo.co.jp/info/en/company/) (Tokyo, Japan)
+
+* July 2020~Present: Data scientist @[Nippon Boehringer Ingelheim](https://www.boehringer-ingelheim.jp/) (Tokyo, Japan)
+  * Duties included: data analysis, consulting
+
+* April 2019~June 2020: Data scientist @[Yahoo! JAPAN](https://about.yahoo.co.jp/info/en/company/) (Tokyo, Japan)
   * Duties included: data analysis, software engineering
 
+Data Science Competition Awards
+======
+* Kaggle
+  * Expert (Competitions, Notebooks, and Discussions)
+* AtmaCup
+  * 2nd place in the AtmaCup#5
+  
 Education
 ======
 * Ph.D in Neural & Behavioral Sciences,  International Max Planck School of Cognitive Neuroscience, Universität Tübingen, Germany, 2019
