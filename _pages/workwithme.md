@@ -17,7 +17,7 @@ Contact me on [Twitter](https://twitter.com/kk1110tt) or email(code1110g-show<at
 
 |  job type | price  | comments  | 
 |-----------|--------|-----------|
-|Data analysis (Exploratory Data Analysis, Data Visualization, Modeling, Report,...)   | 2,500 yen / hour | fixed price |
+|Data analysis (Exploratory Data Analysis, Data Visualization, Modeling, Report,...)   | 5,000 yen / h ~ | negotiable |
 |Japanese-English translation | 6,000 yen / 1,000 words | fixed price  |
 |Summarizing academic paper (cognitive/neuro science related) | 5,000 yen / paper ~ | depends on the length |
 
