@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Thanks for visiting! ##
-Hi, I am Katsuhisa Kawaguchi (川口雄久). Currently I am a data scientist / analyst in a Japanese web company. I am a Kaggle expert and excited about using machine learning and causal inference techniques to understand our world better.
+Hi, I am Katsuhisa Kawaguchi (川口雄久). Currently I am a data scientist / analyst in a Japanese web company. I am a Kaggle Master and excited about using machine learning and causal inference techniques to understand our world better.
 
 I did my PhD in the field of system neuroscience in Tübingen, Germany. I have been interested in the information processing of the brain that translates sensory information into a meaningful behavior.
 
