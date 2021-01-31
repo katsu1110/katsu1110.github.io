@@ -21,7 +21,7 @@ Work experience
 Data Science Competition Awards
 ======
 * Kaggle
-  * Expert (Competitions, Notebooks, and Discussions)
+  * Master (Notebooks, Expert in Competition and Discussions)
 * AtmaCup
   * 2nd place in the AtmaCup#5
   
